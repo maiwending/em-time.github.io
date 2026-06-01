@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Electromagnetics in Time-domain</title>
+    <link href="https://wdmai.github.io/feed.xml" rel="self" />
+    <link href="https://wdmai.github.io" />
+    <updated>2026-01-21T08:55:26-05:00</updated>
+    <author>
+        <name>Dr. Wending Mai</name>
+    </author>
+    <id>https://wdmai.github.io</id>
+
+    <entry>
+        <title>Chiral balls: Knotted structures with high order symmetry and their unique electromagnetic properties</title>
+        <author>
+            <name>Dr. Wending Mai</name>
+        </author>
+        <link href="https://wdmai.github.io/task-oriented-reconfigurable-metasurfaces-based-on-inverse-design-and-temporal-meta-systems-2/"/>
+        <id>https://wdmai.github.io/task-oriented-reconfigurable-metasurfaces-based-on-inverse-design-and-temporal-meta-systems-2/</id>
+            <category term="Time-varying Electromagnetics"/>
+            <category term="Metamaterials"/>
+            <category term="Journal Paper"/>
+
+        <updated>2026-01-20T10:50:49-05:00</updated>
+            <summary>
+                <![CDATA[
+                    In physics, geometrical symmetry is a fundamental property of importance since it is associated with physical conservation. Here, we reveal an exceptional form of symmetry for a family of knots that are both chiral and three-dimensional (3D) rotationally symmetric about every axis of a standard Cartesian coordinate system. We call these unique knotted structures chiral balls. Moreover, chirality can bring about polarization transformation in electromagnetic waves. As a consequence of their 3D rotational symmetry, we further expect the polarization transformation performance of chiral balls to exhibit ultra-wide angle-independent behavior. Such a remarkable property has not been previously reported on in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>In physics, geometrical symmetry is a fundamental property of importance since it is associated with physical conservation. Here, we reveal an exceptional form of symmetry for a family of knots that are both chiral and three-dimensional (3D) rotationally symmetric about every axis of a standard Cartesian coordinate system. We call these unique knotted structures chiral balls. Moreover, chirality can bring about polarization transformation in electromagnetic waves. As a consequence of their 3D rotational symmetry, we further expect the polarization transformation performance of chiral balls to exhibit ultra-wide angle-independent behavior. Such a remarkable property has not been previously reported on in the literature. As a case study, we investigate the intrinsic electromagnetic scattering properties of a representative conductive chiral ball using characteristic mode analysis and then further verify them by measuring its radiation performance. The result shows that the chiral ball can exhibit an unprecedented extraordinary omnidirectional circularly polarized electromagnetic scattering property. Because of their unique properties, chiral balls are expected to not only have a profound impact on the fields of electromagnetics and optics but also potentially far beyond. </p>
+<p><a href="https://pubs.aip.org/apl/article/127/4/044104/3356341/Chiral-balls-Knotted-structures-with-high-order" target="_blank" rel="noopener noreferrer">Read more</a></p>
+<p> </p>
+<pre>Wending Mai, Chunxu Mao,  Galestan Mackertich-Sengerdy, Yifan Chen, and Douglas H. Werner</pre>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Task-oriented reconfigurable metasurfaces based on inverse design and temporal meta-systems</title>
+        <author>
+            <name>Dr. Wending Mai</name>
+        </author>
+        <link href="https://wdmai.github.io/task-oriented-reconfigurable-metasurfaces-based-on-inverse-design-and-temporal-meta-systems/"/>
+        <id>https://wdmai.github.io/task-oriented-reconfigurable-metasurfaces-based-on-inverse-design-and-temporal-meta-systems/</id>
+            <category term="Metamaterials"/>
+            <category term="Journal Paper"/>
+
+        <updated>2025-04-12T13:37:32-04:00</updated>
+            <summary>
+                <![CDATA[
+                    This chapter is organized as follows. In Section 7.2, innovative work on the optimization-enabled GST metasurfaces for sophisticated beam switching and control is highlighted. In Section 7.3, recent developments in the field of temporal artificial media are first reviewed, and then recent work on the time-varying anisotropic materials for complete polarization conversion is summarized. Finally, in Section 7.4, conclusions and a scope for future research are provided. Read more Lei Kang, Sawyer Campbell, Yuhao Wu, Jingwei Xu, Wending Mai, Eric Whiting, and Douglas H. Werner
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This chapter is organized as follows. In Section 7.2, innovative work on the optimization-enabled GST metasurfaces for sophisticated beam switching and control is highlighted. In Section 7.3, recent developments in the field of temporal artificial media are first reviewed, and then recent work on the time-varying anisotropic materials for complete polarization conversion is summarized. Finally, in Section 7.4, conclusions and a scope for future research are provided.</p>
+<p><a href="https://doi.org/10.1117/3.100281.ch7" target="_blank" rel="noopener noreferrer">Read more</a></p>
+<pre>Lei Kang, Sawyer Campbell, Yuhao Wu, Jingwei Xu, Wending Mai, Eric Whiting, and Douglas H. Werner</pre>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Physically Realizable Antenna Equivalent Circuit Generation</title>
+        <author>
+            <name>Dr. Wending Mai</name>
+        </author>
+        <link href="https://wdmai.github.io/physically-realizable-antenna-equivalent-circuit-generation/"/>
+        <id>https://wdmai.github.io/physically-realizable-antenna-equivalent-circuit-generation/</id>
+            <category term="Metamaterials"/>
+            <category term="Journal Paper"/>
+            <category term="Computational Electromagnetics"/>
+
+        <updated>2025-04-12T13:30:16-04:00</updated>
+            <summary>
+                <![CDATA[
+                    This work introduces a new equivalent circuit generation method which can compute an accurate equivalent circuit representation for the known/measured impedance characteristics of antennas, which may assist in matching circuit design, non-Foster matching network design, and deep-learning antenna design. The method utilizes a modified Drude-Lorentz resonator representation inspired by optical material dispersion modeling to create multiple sub-circuits based on determined resonances in the impedance spectrum. Each computed sub-circuit is necessarily composed of physically realizable resistors, capacitors, and inductors, and they are connected in series to accurately reconstruct the device’s corresponding impedance characteristics over a specified region of interest. The process&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This work introduces a new equivalent circuit generation method which can compute an accurate equivalent circuit representation for the known/measured impedance characteristics of antennas, which may assist in matching circuit design, non-Foster matching network design, and deep-learning antenna design. The method utilizes a modified Drude-Lorentz resonator representation inspired by optical material dispersion modeling to create multiple sub-circuits based on determined resonances in the impedance spectrum. Each computed sub-circuit is necessarily composed of physically realizable resistors, capacitors, and inductors, and they are connected in series to accurately reconstruct the device’s corresponding impedance characteristics over a specified region of interest. The process is automated and applicable to a wide range of antennas and electromagnetic devices with multiple resonance phenomena. Current equivalent circuit design methods are limited by a lack of generalization and can require complex, active, or non-realizable circuit topologies. The proposed Drude-Lorentz-based approach can provide valuable insight into an antenna’s resonant behavior while remaining general-purpose and only requiring passive components which are physically realizable. This improved generality is achieved by not requiring physical insights, but rather only utilizing the impedance data alone. Additionally, the method creates simpler circuits than other general methods, requiring less components and component types. This method is employed to create equivalent circuits of four different exemplary types of antennas, a patch antenna, a loop antenna, a spherical helix antenna, and a metantenna unit cell. The impedances generated from these circuit examples are compared with results of their full-wave simulation counterparts and found to be in excellent agreement.</p>
+<p><a href="https://doi.org/10.1109/ACCESS.2024.3370030" target="_blank" rel="noopener noreferrer">Read more</a></p>
+<pre>Micah P. Haack, Ronald Jenkins, Wending Mai, Galestan Mackertich-Sengerdy, Sawyer D. Campbell, Mario F. Pantoja, and Douglas H. Werner</pre>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Contact-Tracing-Inspired Efficient Computation of Energy Distribution in Computational Electromagnetics</title>
+        <author>
+            <name>Dr. Wending Mai</name>
+        </author>
+        <link href="https://wdmai.github.io/contact-tracing-inspired-efficient-computation-of-energy-distribution-in-computational-electromagnetics/"/>
+        <id>https://wdmai.github.io/contact-tracing-inspired-efficient-computation-of-energy-distribution-in-computational-electromagnetics/</id>
+            <category term="Journal Paper"/>
+            <category term="Computational Electromagnetics"/>
+
+        <updated>2025-04-12T13:28:54-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Taking lessons from epidemic contact tracing, this communication proposes a method for boosting the efficiency of a full-wave electromagnetic solver by tracking its simulated energy distribution. When the energy within a subdomain of the problem is near zero, such areas can be safely ignored by the solver, reducing computational load with negligible impact on accuracy. We show that time-domain problems can be adaptively partitioned into energy-active (infections), energy-adjacent (exposed), and energy-null (unexposed) domains. To demonstrate the high efficiency and accuracy of this method, it is successfully applied to several computational electromagnetic problems. Due to its reliance on the causality principle&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Taking lessons from epidemic contact tracing, this communication proposes a method for boosting the efficiency of a full-wave electromagnetic solver by tracking its simulated energy distribution. When the energy within a subdomain of the problem is near zero, such areas can be safely ignored by the solver, reducing computational load with negligible impact on accuracy. We show that time-domain problems can be adaptively partitioned into energy-active (infections), energy-adjacent (exposed), and energy-null (unexposed) domains. To demonstrate the high efficiency and accuracy of this method, it is successfully applied to several computational electromagnetic problems. Due to its reliance on the causality principle to formulate the energy tracking procedure, this transformative method may be generalized beyond the scope of electromagnetics and optics to include other domains of computational physics.</p>
+<p><a href="https://doi.org/10.1109/TAP.2023.3304123" target="_blank" rel="noopener noreferrer">Read more</a></p>
+<pre>Wending Mai, Ronald Jenkins, Yifan Chen, and Douglas H. Werner</pre>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Wave-number domain analysis for determining the response of linear space-invariant time-varying systems</title>
+        <author>
+            <name>Dr. Wending Mai</name>
+        </author>
+        <link href="https://wdmai.github.io/wave-number-domain-analysis-for-determining-the-response-of-linear-space-invariant-time-varying-systems/"/>
+        <id>https://wdmai.github.io/wave-number-domain-analysis-for-determining-the-response-of-linear-space-invariant-time-varying-systems/</id>
+            <category term="Time-varying Electromagnetics"/>
+            <category term="Journal Paper"/>
+
+        <updated>2025-04-12T13:24:12-04:00</updated>
+            <summary>
+                <![CDATA[
+                    System response analysis is a powerful method for analyzing linear time-invariant (LTI) systems. In this work, we have demonstrated that a system response approach can also be applied to analyze the so-called linear space-invariant (LSI) but time-varying problems, which represent a dual of the conventional LTI problems. In this proposed approach, we perform a Fourier transform of the electric field distribution on the space coordinate, rather than in time, and express it in the wave-number domain. Specifically, we express any input signal and its corresponding output in the wave-number domain. Then, the transfer function for the LSI time-varying system can&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>System response analysis is a powerful method for analyzing linear time-invariant (LTI) systems. In this work, we have demonstrated that a system response approach can also be applied to analyze the so-called linear space-invariant (LSI) but time-varying problems, which represent a dual of the conventional LTI problems. In this proposed approach, we perform a Fourier transform of the electric field distribution on the space coordinate, rather than in time, and express it in the wave-number domain. Specifically, we express any input signal and its corresponding output in the wave-number domain. Then, the transfer function for the LSI time-varying system can be extracted as a one-time computation by evaluating the ratio of the output signal to the input signal in the wave-number domain. Once the transfer function is extracted, the output response to any input with an arbitrary temporal profile can be computed instantaneously. Furthermore, for a system with a complicated temporal profile, the proposed method allows us to decompose it into several simpler subsystems that appear sequentially in time. The transfer function of that complicated system can be expressed as the product of those of the individual subsystems, such that it can be evaluated more efficiently.</p>
+<p><a href="https://doi.org/10.1103/PhysRevA.108.043504" target="_blank" rel="noopener noreferrer">Read more</a></p>
+<pre>Wending Mai, Jingwei Xu, Arkaprovo Das, and Douglas H. Werner</pre>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Fundamental Asymmetries between Spatial and Temporal Boundaries in Electromagnetics</title>
+        <author>
+            <name>Dr. Wending Mai</name>
+        </author>
+        <link href="https://wdmai.github.io/fundamental-asymmetries-between-spatial-and-temporal-boundaries-in-electromagnetics/"/>
+        <id>https://wdmai.github.io/fundamental-asymmetries-between-spatial-and-temporal-boundaries-in-electromagnetics/</id>
+            <category term="Time-varying Electromagnetics"/>
+            <category term="Journal Paper"/>
+
+        <updated>2025-04-12T13:22:54-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Time-varying materials bring an extra degree of design freedom compared to their conventional time-invariant counterparts. However, few discussions have focused on the underlying physical difference between spatial and temporal boundaries. In this letter, we thoroughly investigate those differences from the perspective of conservation laws. By doing so, the building blocks of optics and electromagnetics such as the reflection law, Snell’s law, and Fresnel’s equations can be analogously derived in a temporal context, but with completely different interpretations. Furthermore, we study the unique features of temporal boundaries, such as their nonconformance to energy conservation and causality. Read more Wending Mai, Jingwei&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Time-varying materials bring an extra degree of design freedom compared to their conventional time-invariant counterparts. However, few discussions have focused on the underlying physical difference between spatial and temporal boundaries. In this letter, we thoroughly investigate those differences from the perspective of conservation laws. By doing so, the building blocks of optics and electromagnetics such as the reflection law, Snell’s law, and Fresnel’s equations can be analogously derived in a temporal context, but with completely different interpretations. Furthermore, we study the unique features of temporal boundaries, such as their nonconformance to energy conservation and causality.</p>
+<p><a href="https://doi.org/10.3390/sym15040858" target="_blank" rel="noopener noreferrer">Read more</a></p>
+<pre>Wending Mai, Jingwei Xu, and Douglas H. Werner</pre>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Temporal multi-stage energy pumping</title>
+        <author>
+            <name>Dr. Wending Mai</name>
+        </author>
+        <link href="https://wdmai.github.io/temporal-multi-stage-energy-pumping/"/>
+        <id>https://wdmai.github.io/temporal-multi-stage-energy-pumping/</id>
+            <category term="Time-varying Electromagnetics"/>
+            <category term="Journal Paper"/>
+
+        <updated>2025-04-12T13:21:13-04:00</updated>
+            <summary>
+                <![CDATA[
+                    As an important theoretical concept, temporal boundaries provide researchers with new insights for tailoring electromagnetic waves in the time domain. Because a temporal boundary breaks the time translation symmetry, a source is necessary to satisfy energy conservation. In this Letter, we quantify the relationship between refractive index contrast and the required energy exchange. More specifically, to realize a temporal boundary with a large refractive index contrast, a correspondingly large and abrupt energy exchange is required. Considering this practical difficulty, we propose to mimic a large-contrast temporal boundary by staggering a series of small-contrast temporal boundaries separated by carefully designed durations.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>As an important theoretical concept, temporal boundaries provide researchers with new insights for tailoring electromagnetic waves in the time domain. Because a temporal boundary breaks the time translation symmetry, a source is necessary to satisfy energy conservation. In this Letter, we quantify the relationship between refractive index contrast and the required energy exchange. More specifically, to realize a temporal boundary with a large refractive index contrast, a correspondingly large and abrupt energy exchange is required. Considering this practical difficulty, we propose to mimic a large-contrast temporal boundary by staggering a series of small-contrast temporal boundaries separated by carefully designed durations. In this way, the process of energy input/output is distributed over an elongated duration, but their effect can still be cumulative. This process is analogous to a multi-resonant system with a periodic energy input. Based on this design principle, we discuss several scenarios for different temporal profiles of refractive index and their corresponding energy requirements.</p>
+<p><a href="https://doi.org/10.1364/OL.452056" target="_blank" rel="noopener noreferrer">Read more</a></p>
+<pre>Wending Mai, Jingwei Xu, and Douglas H. Werner</pre>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Generalized Temporal Transfer Matrix Method: A Systematic Approach to Solving Electromagnetic Wave Scattering in Temporally Stratified Structures</title>
+        <author>
+            <name>Dr. Wending Mai</name>
+        </author>
+        <link href="https://wdmai.github.io/generalized-temporal-transfer-matrix-method-a-systematic-approach-to-solving-electromagnetic-wave-scattering-in-temporally-stratified-structures/"/>
+        <id>https://wdmai.github.io/generalized-temporal-transfer-matrix-method-a-systematic-approach-to-solving-electromagnetic-wave-scattering-in-temporally-stratified-structures/</id>
+            <category term="Time-varying Electromagnetics"/>
+            <category term="Journal Paper"/>
+            <category term="Computational Electromagnetics"/>
+
+        <updated>2025-04-12T13:17:52-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Opening a new door to tailoring electromagnetic (EM) waves, temporal boundaries have attracted the attention of researchers in recent years, which have led to many intriguing applications. However, the current theoretical approaches are far from enough to handle the complicated temporal systems. In this paper, we develop universal matrix formalism, paired with a unique coordinate transformation technique. The approach can effectively deal with temporally stratified structures with complicated material anisotropy and arbitrary incidence angles. This formulation is applied to various practical systems, enabling the solution of these temporal boundary related problems in a simple and elegant fashion, and also facilitating&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Opening a new door to tailoring electromagnetic (EM) waves, temporal boundaries have attracted the attention of researchers in recent years, which have led to many intriguing applications. However, the current theoretical approaches are far from enough to handle the complicated temporal systems. In this paper, we develop universal matrix formalism, paired with a unique coordinate transformation technique. The approach can effectively deal with temporally stratified structures with complicated material anisotropy and arbitrary incidence angles. This formulation is applied to various practical systems, enabling the solution of these temporal boundary related problems in a simple and elegant fashion, and also facilitating a deep insight into the fundamental physics.</p>
+<p><a href="10.1109/COMPEM.2018.8496560" target="_blank" rel="noopener noreferrer">Read more</a></p>
+<pre>Jingwei Xu, Wending Mai, and Douglas H. Werner</pre>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Analytical transient analysis of temporal boundary value problems using the d’Alembert formula</title>
+        <author>
+            <name>Dr. Wending Mai</name>
+        </author>
+        <link href="https://wdmai.github.io/analytical-transient-analysis-of-temporal-boundary-value-problems-using-the-dalembert-formula/"/>
+        <id>https://wdmai.github.io/analytical-transient-analysis-of-temporal-boundary-value-problems-using-the-dalembert-formula/</id>
+            <category term="Time-varying Electromagnetics"/>
+            <category term="Journal Paper"/>
+            <category term="Computational Electromagnetics"/>
+
+        <updated>2025-04-12T13:13:39-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Temporal boundary value problems (TBVPs) provide the foundation for analyzing electromagnetic wave propagation in time-varying media. In this paper, we point out that TBVPs fall into the category of unbounded initial value problems, which have traveling wave solutions. By dividing the entire time frame into several subdomains and applying the d’Alembert formula, the transient expressions for waves propagating through temporal boundaries can be evaluated analytically. Moreover, unlike their spatial analogs, TBVPs are subject to causality. Therefore, the resulting analytical transient solutions resulting from the d’Alembert formula are unique to temporal systems. Read more Wending Mai and Douglas H. Werner
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Temporal boundary value problems (TBVPs) provide the foundation for analyzing electromagnetic wave propagation in time-varying media. In this paper, we point out that TBVPs fall into the category of unbounded initial value problems, which have traveling wave solutions. By dividing the entire time frame into several subdomains and applying the d’Alembert formula, the transient expressions for waves propagating through temporal boundaries can be evaluated analytically. Moreover, unlike their spatial analogs, TBVPs are subject to causality. Therefore, the resulting analytical transient solutions resulting from the d’Alembert formula are unique to temporal systems.</p>
+<p><a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-46-22-5727" target="_blank" rel="noopener noreferrer">Read more</a></p>
+<pre>Wending Mai and Douglas H. Werner</pre>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>A knotted metamolecule with axisymmetric strong optical activity</title>
+        <author>
+            <name>Dr. Wending Mai</name>
+        </author>
+        <link href="https://wdmai.github.io/a-knotted-metamolecule-with-axisymmetric-strong-optical-activity-2/"/>
+        <id>https://wdmai.github.io/a-knotted-metamolecule-with-axisymmetric-strong-optical-activity-2/</id>
+            <category term="Metamaterials"/>
+            <category term="Knot Electromagnetics"/>
+            <category term="Journal Paper"/>
+
+        <updated>2021-10-14T11:10:07-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Optical activity is the ability of chiral materials to rotate linearly polarized electromagnetic waves. A knotted chiral metamolecule is introduced here that exhibits strong optical activity corresponding to a 90° polarization rotation of the incident waves. More importantly, the torus knot structure is intrinsically chiral and multifold axisymmetric. Consequently, the observed polarization rotation behavior is found to be independent of how the incident wave is polarized. The metamolecule is fabricated through selective laser melting and experimentally validated in the microwave spectrum. This work represents the first ever metamolecule to be reported that is intrinsically axisymmetric and capable of simultaneously exhibiting&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Optical activity is the ability of chiral materials to rotate linearly polarized electromagnetic waves. A knotted chiral metamolecule is introduced here that exhibits strong optical activity corresponding to a 90° polarization rotation of the incident waves. More importantly, the torus knot structure is intrinsically chiral and multifold axisymmetric. Consequently, the observed polarization rotation behavior is found to be independent of how the incident wave is polarized. The metamolecule is fabricated through selective laser melting and experimentally validated in the microwave spectrum. This work represents the first ever metamolecule to be reported that is intrinsically axisymmetric and capable of simultaneously exhibiting strong optical activity.</p>
+<p><a href="https://doi.org/10.1002/adom.202000948" target="_blank" rel="noopener noreferrer">Read more</a></p>
+<pre>Wending Mai,* Lei Kang, Ronald Jenkins, Danny Zhu, Chunxu Mao, Pingjuan L. Werner, Yifan Chen, and Douglas H. Werner</pre>
+            ]]>
+        </content>
+    </entry>
+</feed>
