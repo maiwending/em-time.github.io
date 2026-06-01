@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Electromagnetics in Time-domain</title>
-    <link href="file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/feed.xml" rel="self" />
-    <link href="file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview" />
+    <link href="/feed.xml" rel="self" />
+    <link href="" />
     <updated>2026-01-21T08:55:26-05:00</updated>
     <author>
         <name>Dr. Wending Mai</name>
     </author>
-    <id>file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview</id>
+    <id></id>
 
     <entry>
         <title>Chiral balls: Knotted structures with high order symmetry and their unique electromagnetic properties</title>
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/task-oriented-reconfigurable-metasurfaces-based-on-inverse-design-and-temporal-meta-systems-2/index.html"/>
-        <id>file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/task-oriented-reconfigurable-metasurfaces-based-on-inverse-design-and-temporal-meta-systems-2/index.html</id>
+        <link href="/task-oriented-reconfigurable-metasurfaces-based-on-inverse-design-and-temporal-meta-systems-2/index.html"/>
+        <id>/task-oriented-reconfigurable-metasurfaces-based-on-inverse-design-and-temporal-meta-systems-2/index.html</id>
             <category term="Time-varying Electromagnetics"/>
             <category term="Metamaterials"/>
             <category term="Journal Paper"/>
@@ -40,8 +40,8 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/task-oriented-reconfigurable-metasurfaces-based-on-inverse-design-and-temporal-meta-systems/index.html"/>
-        <id>file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/task-oriented-reconfigurable-metasurfaces-based-on-inverse-design-and-temporal-meta-systems/index.html</id>
+        <link href="/task-oriented-reconfigurable-metasurfaces-based-on-inverse-design-and-temporal-meta-systems/index.html"/>
+        <id>/task-oriented-reconfigurable-metasurfaces-based-on-inverse-design-and-temporal-meta-systems/index.html</id>
             <category term="Metamaterials"/>
             <category term="Journal Paper"/>
 
@@ -64,8 +64,8 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/physically-realizable-antenna-equivalent-circuit-generation/index.html"/>
-        <id>file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/physically-realizable-antenna-equivalent-circuit-generation/index.html</id>
+        <link href="/physically-realizable-antenna-equivalent-circuit-generation/index.html"/>
+        <id>/physically-realizable-antenna-equivalent-circuit-generation/index.html</id>
             <category term="Metamaterials"/>
             <category term="Journal Paper"/>
             <category term="Computational Electromagnetics"/>
@@ -89,8 +89,8 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/contact-tracing-inspired-efficient-computation-of-energy-distribution-in-computational-electromagnetics/index.html"/>
-        <id>file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/contact-tracing-inspired-efficient-computation-of-energy-distribution-in-computational-electromagnetics/index.html</id>
+        <link href="/contact-tracing-inspired-efficient-computation-of-energy-distribution-in-computational-electromagnetics/index.html"/>
+        <id>/contact-tracing-inspired-efficient-computation-of-energy-distribution-in-computational-electromagnetics/index.html</id>
             <category term="Journal Paper"/>
             <category term="Computational Electromagnetics"/>
 
@@ -113,8 +113,8 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/wave-number-domain-analysis-for-determining-the-response-of-linear-space-invariant-time-varying-systems/index.html"/>
-        <id>file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/wave-number-domain-analysis-for-determining-the-response-of-linear-space-invariant-time-varying-systems/index.html</id>
+        <link href="/wave-number-domain-analysis-for-determining-the-response-of-linear-space-invariant-time-varying-systems/index.html"/>
+        <id>/wave-number-domain-analysis-for-determining-the-response-of-linear-space-invariant-time-varying-systems/index.html</id>
             <category term="Time-varying Electromagnetics"/>
             <category term="Journal Paper"/>
 
@@ -137,8 +137,8 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/fundamental-asymmetries-between-spatial-and-temporal-boundaries-in-electromagnetics/index.html"/>
-        <id>file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/fundamental-asymmetries-between-spatial-and-temporal-boundaries-in-electromagnetics/index.html</id>
+        <link href="/fundamental-asymmetries-between-spatial-and-temporal-boundaries-in-electromagnetics/index.html"/>
+        <id>/fundamental-asymmetries-between-spatial-and-temporal-boundaries-in-electromagnetics/index.html</id>
             <category term="Time-varying Electromagnetics"/>
             <category term="Journal Paper"/>
 
@@ -161,8 +161,8 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/temporal-multi-stage-energy-pumping/index.html"/>
-        <id>file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/temporal-multi-stage-energy-pumping/index.html</id>
+        <link href="/temporal-multi-stage-energy-pumping/index.html"/>
+        <id>/temporal-multi-stage-energy-pumping/index.html</id>
             <category term="Time-varying Electromagnetics"/>
             <category term="Journal Paper"/>
 
@@ -185,8 +185,8 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/generalized-temporal-transfer-matrix-method-a-systematic-approach-to-solving-electromagnetic-wave-scattering-in-temporally-stratified-structures/index.html"/>
-        <id>file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/generalized-temporal-transfer-matrix-method-a-systematic-approach-to-solving-electromagnetic-wave-scattering-in-temporally-stratified-structures/index.html</id>
+        <link href="/generalized-temporal-transfer-matrix-method-a-systematic-approach-to-solving-electromagnetic-wave-scattering-in-temporally-stratified-structures/index.html"/>
+        <id>/generalized-temporal-transfer-matrix-method-a-systematic-approach-to-solving-electromagnetic-wave-scattering-in-temporally-stratified-structures/index.html</id>
             <category term="Time-varying Electromagnetics"/>
             <category term="Journal Paper"/>
             <category term="Computational Electromagnetics"/>
@@ -210,8 +210,8 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/analytical-transient-analysis-of-temporal-boundary-value-problems-using-the-dalembert-formula/index.html"/>
-        <id>file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/analytical-transient-analysis-of-temporal-boundary-value-problems-using-the-dalembert-formula/index.html</id>
+        <link href="/analytical-transient-analysis-of-temporal-boundary-value-problems-using-the-dalembert-formula/index.html"/>
+        <id>/analytical-transient-analysis-of-temporal-boundary-value-problems-using-the-dalembert-formula/index.html</id>
             <category term="Time-varying Electromagnetics"/>
             <category term="Journal Paper"/>
             <category term="Computational Electromagnetics"/>
@@ -235,8 +235,8 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/a-knotted-metamolecule-with-axisymmetric-strong-optical-activity-2/index.html"/>
-        <id>file:///C:\Users\em_time\Documents\Publii\sites\em-time\preview/a-knotted-metamolecule-with-axisymmetric-strong-optical-activity-2/index.html</id>
+        <link href="/a-knotted-metamolecule-with-axisymmetric-strong-optical-activity-2/index.html"/>
+        <id>/a-knotted-metamolecule-with-axisymmetric-strong-optical-activity-2/index.html</id>
             <category term="Metamaterials"/>
             <category term="Knot Electromagnetics"/>
             <category term="Journal Paper"/>
