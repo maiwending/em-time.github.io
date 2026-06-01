@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Electromagnetics in Time-domain</title>
-    <link href="/feed.xml" rel="self" />
+    <link href="/em-time.github.io/feed.xml" rel="self" />
     <link href="" />
     <updated>2026-01-21T08:55:26-05:00</updated>
     <author>
@@ -14,7 +14,7 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="/task-oriented-reconfigurable-metasurfaces-based-on-inverse-design-and-temporal-meta-systems-2/index.html"/>
+        <link href="/em-time.github.io/task-oriented-reconfigurable-metasurfaces-based-on-inverse-design-and-temporal-meta-systems-2/index.html"/>
         <id>/task-oriented-reconfigurable-metasurfaces-based-on-inverse-design-and-temporal-meta-systems-2/index.html</id>
             <category term="Time-varying Electromagnetics"/>
             <category term="Metamaterials"/>
@@ -40,7 +40,7 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="/task-oriented-reconfigurable-metasurfaces-based-on-inverse-design-and-temporal-meta-systems/index.html"/>
+        <link href="/em-time.github.io/task-oriented-reconfigurable-metasurfaces-based-on-inverse-design-and-temporal-meta-systems/index.html"/>
         <id>/task-oriented-reconfigurable-metasurfaces-based-on-inverse-design-and-temporal-meta-systems/index.html</id>
             <category term="Metamaterials"/>
             <category term="Journal Paper"/>
@@ -64,7 +64,7 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="/physically-realizable-antenna-equivalent-circuit-generation/index.html"/>
+        <link href="/em-time.github.io/physically-realizable-antenna-equivalent-circuit-generation/index.html"/>
         <id>/physically-realizable-antenna-equivalent-circuit-generation/index.html</id>
             <category term="Metamaterials"/>
             <category term="Journal Paper"/>
@@ -89,7 +89,7 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="/contact-tracing-inspired-efficient-computation-of-energy-distribution-in-computational-electromagnetics/index.html"/>
+        <link href="/em-time.github.io/contact-tracing-inspired-efficient-computation-of-energy-distribution-in-computational-electromagnetics/index.html"/>
         <id>/contact-tracing-inspired-efficient-computation-of-energy-distribution-in-computational-electromagnetics/index.html</id>
             <category term="Journal Paper"/>
             <category term="Computational Electromagnetics"/>
@@ -113,7 +113,7 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="/wave-number-domain-analysis-for-determining-the-response-of-linear-space-invariant-time-varying-systems/index.html"/>
+        <link href="/em-time.github.io/wave-number-domain-analysis-for-determining-the-response-of-linear-space-invariant-time-varying-systems/index.html"/>
         <id>/wave-number-domain-analysis-for-determining-the-response-of-linear-space-invariant-time-varying-systems/index.html</id>
             <category term="Time-varying Electromagnetics"/>
             <category term="Journal Paper"/>
@@ -137,7 +137,7 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="/fundamental-asymmetries-between-spatial-and-temporal-boundaries-in-electromagnetics/index.html"/>
+        <link href="/em-time.github.io/fundamental-asymmetries-between-spatial-and-temporal-boundaries-in-electromagnetics/index.html"/>
         <id>/fundamental-asymmetries-between-spatial-and-temporal-boundaries-in-electromagnetics/index.html</id>
             <category term="Time-varying Electromagnetics"/>
             <category term="Journal Paper"/>
@@ -161,7 +161,7 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="/temporal-multi-stage-energy-pumping/index.html"/>
+        <link href="/em-time.github.io/temporal-multi-stage-energy-pumping/index.html"/>
         <id>/temporal-multi-stage-energy-pumping/index.html</id>
             <category term="Time-varying Electromagnetics"/>
             <category term="Journal Paper"/>
@@ -185,7 +185,7 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="/generalized-temporal-transfer-matrix-method-a-systematic-approach-to-solving-electromagnetic-wave-scattering-in-temporally-stratified-structures/index.html"/>
+        <link href="/em-time.github.io/generalized-temporal-transfer-matrix-method-a-systematic-approach-to-solving-electromagnetic-wave-scattering-in-temporally-stratified-structures/index.html"/>
         <id>/generalized-temporal-transfer-matrix-method-a-systematic-approach-to-solving-electromagnetic-wave-scattering-in-temporally-stratified-structures/index.html</id>
             <category term="Time-varying Electromagnetics"/>
             <category term="Journal Paper"/>
@@ -210,7 +210,7 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="/analytical-transient-analysis-of-temporal-boundary-value-problems-using-the-dalembert-formula/index.html"/>
+        <link href="/em-time.github.io/analytical-transient-analysis-of-temporal-boundary-value-problems-using-the-dalembert-formula/index.html"/>
         <id>/analytical-transient-analysis-of-temporal-boundary-value-problems-using-the-dalembert-formula/index.html</id>
             <category term="Time-varying Electromagnetics"/>
             <category term="Journal Paper"/>
@@ -235,7 +235,7 @@
         <author>
             <name>Dr. Wending Mai</name>
         </author>
-        <link href="/a-knotted-metamolecule-with-axisymmetric-strong-optical-activity-2/index.html"/>
+        <link href="/em-time.github.io/a-knotted-metamolecule-with-axisymmetric-strong-optical-activity-2/index.html"/>
         <id>/a-knotted-metamolecule-with-axisymmetric-strong-optical-activity-2/index.html</id>
             <category term="Metamaterials"/>
             <category term="Knot Electromagnetics"/>
